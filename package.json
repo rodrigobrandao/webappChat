@@ -1,0 +1,22 @@
+{
+  "name": "webappchat",
+  "version": "1.0.0",
+  "description": "this is webapp sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigobrandao/webappchat.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Rodrigo Brandao <rodrigo.brandao@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigobrandao/webappchat/issues"
+  },
+  "homepage": "https://github.com/rodrigobrandao/webappchat#readme"
+}
